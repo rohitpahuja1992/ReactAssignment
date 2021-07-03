@@ -2,14 +2,14 @@ export const LoginData = {
     "data": [
         {
             "id": 1,
-            "email": "mehvishkhan@udayy.com",
+            "email": "mail@example.com",
             "first_name": "Mehvish",
             "last_name": "Khan",
             "password": "123456"
         },
         {
             "id": 2,
-            "email": "suhasinimathur@udayy.com",
+            "email": "mail2@example.com",
             "first_name": "Suhasini",
             "last_name": "Mathur",
             "password": "654321"
